@@ -1,3 +1,5 @@
-restaurants/booking/tables/
-restaurants/menu/
-restaurants/menu/<int:pk>/
+auth/users
+auth/token/login
+restaurant/booking/tables
+restaurant/menu
+restaurant/menu/<int:pk>
